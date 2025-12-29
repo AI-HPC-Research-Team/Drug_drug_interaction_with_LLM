@@ -1,10 +1,9 @@
 # Enhanced drug-drug interaction prediction using adaptive knowledge integration
 
-### 📢 News
-- **[2025-12-29]** 🎉 Our paper has been accepted by **Big Data Mining and Analytics (BDMA)**!
-  - **DOI:** [10.26599/BDMA.2025.9020127](https://doi.org/10.26599/BDMA.2025.9020127)
-  - 
 Drug-drug interaction events (DDIE) prediction is crucial for preventing adverse reactions and ensuring optimal therapeutic outcomes. However, existing methods often face challenges with imbalanced datasets, complex interaction mechanisms, and poor generalization to unknown drug combinations. To address these challenges, we propose a knowledge augmentation framework that adaptively infuses prior drug knowledge into a large language model (LLM). This framework utilizes reinforcement learning (RL) techniques to facilitate adaptive knowledge extraction and synthesis, thereby efficiently optimizing the strategy space to enhance the accuracy of LLMs for DDIE predictions. As a result of few-shot learning, we achieved a notable improvement compared to the baseline. This approach establishes an effective framework for scientific knowledge learning for DDIE predictions.
+
+### 📢 News
+- **[2025-12-29]** 🎉 Our paper has been accepted by **Big Data Mining and Analytics (BDMA)**! **DOI:** [10.26599/BDMA.2025.9020127](https://doi.org/10.26599/BDMA.2025.9020127)
 
 ### Dataset Download links
 - [Dataset](https://huggingface.co/datasets/liupf/KAR4DDI)
